@@ -27,4 +27,20 @@ using sentence transformer using text simlarity
 
 ### Information extraction 
 valuable information extracted
-1. 
+
+### Information retrival 
+using google location to find something nearby in the sorted 
+
+### Chatbot 
+1. FAQ
+2. floe-based
+3. open
+
+### Translation 
+
+### Language modeling 
+autocomplete in gmail 
+
+### Topic modelling 
+
+
