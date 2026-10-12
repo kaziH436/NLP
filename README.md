@@ -11,10 +11,34 @@ using cosine simlarity to predict
 
 ## Examples
 ### Customer Complain flow
-1. compare text to TF-IDF vectorize 
-2. use a classfier using naive bayes classifier
-3. use sentry to route call
-4. maybe connect to Jira for a SWE
+#### Data Accquistion
+1. getting information from the database, if its stored in mongodb
+2. the DB team can upload in S3 cloud and use that for the machine learning model
+
+#### Discord irrevalent information
+removing spelling errors or extract useful information
+
+#### Sentence Segmentation 
+separate the words according to grammer
+
+#### Tokenization
+using simple rules to stem the words
+lemmatization: mapping the words to base words. e.g. Adjustable -> adjust 
+
+#### Feature Engineering 
+compare text to TF-IDF vectorize, word embedding, one hot encoding 
+
+#### Machine Learning Model 
+use a classfier using naive bayes classifier, SVM, logistic regression
+using a confusion matrix to understand accuracy (anything not in the diagonal is wrong)
+
+#### Deployment   
+Deploy in the cloud using fastapi 
+using databricks to build and deploy these services 
+
+#### Extra  
+4. use sentry to route call
+5. maybe connect to Jira for a SWE
 
 ### Health
 precscription scanned and classify the documents
