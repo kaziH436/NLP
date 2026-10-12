@@ -4,7 +4,7 @@ NLP practice
 ## NLP techniques 
 ### Regex
 
-### Countvectorize ML
+### Countvectorize Machine learning 
 
 ### Sentence embeddings deep learning model
 using cosine simlarity to predict 
@@ -22,4 +22,9 @@ precscription scanned and classify the documents
 2. use doc2vec for vectors
 3. use logistic regression
 
+### ATS
+using sentence transformer using text simlarity 
 
+### Information extraction 
+valuable information extracted
+1. 
