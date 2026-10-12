@@ -1,5 +1,5 @@
 # NLP
-NLP practice
+NLP practice based on [NLP Tutorial Python](https://www.youtube.com/watch?v=h2kBNEShsiE&list=PLeo1K3hjS3uuvuAXhYjV2lMEShq2UYSwX&index=7)
 
 ## NLP techniques 
 ### Regex
@@ -67,4 +67,15 @@ autocomplete in gmail
 
 ### Topic modelling 
 
+
+## Implementation 
+### spacy: object oriented 
+
+    pip install spacy
+    python -m notebook
+    
+
+### NLKT: string porcessing
+
+    pip install nltk 
 
