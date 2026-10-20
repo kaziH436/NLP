@@ -1,5 +1,5 @@
 # NLP
-NLP practice based on [NLP Tutorial Python](https://www.youtube.com/watch?v=h2kBNEShsiE&list=PLeo1K3hjS3uuvuAXhYjV2lMEShq2UYSwX&index=7)
+NLP practice based on codebasics [NLP Tutorial Python](https://www.youtube.com/watch?v=h2kBNEShsiE&list=PLeo1K3hjS3uuvuAXhYjV2lMEShq2UYSwX&index=7)
 
 ## NLP techniques 
 ### Regex
